@@ -1,0 +1,5 @@
+mongodb:
+    #source mongodb
+    conn_str: ""
+    #destination mongodb
+    dest_conn_str: ""
